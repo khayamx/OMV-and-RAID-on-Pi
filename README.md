@@ -22,3 +22,6 @@ Prerequisites:
 * Enable SSH on the Pi
 
 
+To Do:
+Run shell script in terminal
+
