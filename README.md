@@ -7,7 +7,7 @@ Hardware:
 * 2 SSDs or HDDs
 * 16GB SD card
 * USB
-* Decent power brick (at _least_ 2.4A but that's pushing it - if you're using HDDs definately higher)
+* Decent power brick (5V/2.5A)
 * Power cable
 * Ethernet cable
 
