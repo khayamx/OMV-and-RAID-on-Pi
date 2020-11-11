@@ -4,10 +4,10 @@ Follow shell script to install OMV on the Pi
 
 Hardware:
 * Raspberry Pi 3B+ or higher
-* 2 SSDs or HDDs
-* 16GB SD card
-* USB
-* Decent power brick (5V/2.5A)
+* 2 identical SSDs
+* min 16GB SD card
+* USB to SATA cables
+* Decent power brick (5V/2.5A) - can get away with 2.4A
 * Power cable
 * Ethernet cable
 
