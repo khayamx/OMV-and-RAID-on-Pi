@@ -1,5 +1,8 @@
 # OMV-and-RAID-on-Pi
 
+edit: The following script was to set up OMV and RAID on a Raspberry Pi as a benchmark for my final year project, Towards a Fully Open Source NAS 
+
+
 Follow shell script to install OMV on the Pi
 
 Hardware:
